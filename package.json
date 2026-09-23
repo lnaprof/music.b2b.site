@@ -1,0 +1,20 @@
+{
+  "name": "soundpipe-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "B2B audio production landing page + lead API (file storage, e-mail and Telegram notifications)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate:audio": "powershell -NoProfile -ExecutionPolicy Bypass -File tools\\generate-audio.ps1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.14"
+  }
+}
