@@ -249,7 +249,8 @@ window.I18N = {
     "footer.desc": "B2B-продакшн аудио для студий, агентств и GameDev. Масштабируемый звук, фиксированные сроки, полное NDA.",
     "footer.nav": "Разделы",
     "footer.cont": "Контакты",
-    "footer.rights": "© 2026 SOUNDPIPE AUDIO. Все права защищены.",
+    "footer.rights": "Правообладатель lanaerm_prof. Все права защищены. Использование без письменного разрешения запрещено.",
+    "footer.disclaimer": "* Имена, логотип, аудиотреки и детали процесса работы на этом сайте являются собирательными образами, созданными для иллюстрации реальных результатов работы. Любые совпадения случайны.",
 
     "misc.nofile": "Файл не выбран",
     "misc.filesize": "{name} · {size} МБ",
@@ -505,7 +506,8 @@ window.I18N = {
     "footer.desc": "B2B audio production for studios, agencies and GameDev. Scalable sound, fixed deadlines, full NDA.",
     "footer.nav": "Sections",
     "footer.cont": "Contacts",
-    "footer.rights": "© 2026 SOUNDPIPE AUDIO. All rights reserved.",
+    "footer.rights": "Copyright holder lanaerm_prof. All rights reserved. Use without written permission is prohibited.",
+    "footer.disclaimer": "* Names, logo, audio tracks and details of the working process on this website are collective images created to illustrate real work results. Any coincidences are accidental.",
 
     "misc.nofile": "No file chosen",
     "misc.filesize": "{name} · {size} MB",
